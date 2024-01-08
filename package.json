@@ -1,0 +1,21 @@
+{
+  "name": "btig",
+  "version": "1.0.1",
+  "description": "",
+  "dependencies": {
+    "pdfmake": "^0.1.70",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-select": "^5.8.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "test": "test btig"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "author": "Habib Ur Rehman",
+  "license": "ISC"
+}
