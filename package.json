@@ -1,0 +1,11 @@
+{
+  "name": "btig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test btig"
+  },
+  "author": "",
+  "license": "ISC"
+}
